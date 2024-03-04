@@ -6,7 +6,7 @@ button {
     background-color: hsl(0, 0%, 30%);
     cursor: pointer;
     color: white;
-    font: 3rem;
+    font-size: 5rem;
     font-weight: bold;
     transition: 0.5s;
 }
